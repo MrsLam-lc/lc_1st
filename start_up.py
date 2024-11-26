@@ -1,1 +1,1 @@
-print("Will it be ready to start up?")
+#???
