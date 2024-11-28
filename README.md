@@ -6,7 +6,7 @@ I'm not sure about how it might be used.
 But, anyway, I will **try** it!!!
 
 # Some **Important** Issue:
-## How to make the git bush run:
+## 1. How to make the git bush run:
 
 ### - You should **modify configuration** as below:
 
@@ -31,3 +31,18 @@ To **check** if you have already cancel configuration, you can do as below:
 -> If nothing was output, then you have already reach your goal. 
 
 -> Otherwise, please repeat the process until it passes your check.
+
+## 2. How to **clone** and **push**
+
+### - How to **clone**
+
+You should firstly check the http of your targeted repository and copy the *HTTPS (reposity adress)* in the part of *code*.
+
+- ***git clone REPOSITY_ADRESS***
+
+### - How to **push**
+- ***git add RILENAME.FORMAT***
+
+- ***git commit -m "WHAT YOU WANT TO MARK"***
+
+- ***git push***
