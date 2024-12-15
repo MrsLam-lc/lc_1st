@@ -47,4 +47,4 @@ You should firstly check the http of your targeted repository and copy the *HTTP
 
 - ***git push***
 
-## ***~~ The end ~~***
+## ~~ ***The end*** ~~
